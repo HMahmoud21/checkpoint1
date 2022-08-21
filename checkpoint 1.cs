@@ -11,7 +11,7 @@ BEGIN
    do {
 
 
-   Write("Donner une chaine ");
+   Write("Donner une chaine de charactère ");
    Read(str1);
    i:= str1.length;
    
